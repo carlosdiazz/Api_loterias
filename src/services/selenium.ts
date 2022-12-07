@@ -57,10 +57,10 @@ const arr_URL_x3 = [
 const url = "https://www.lotteryusa.com/florida/pick-2/";
 
 const ganamas = [
-  '/*[@id="art-main"]/div[2]/div[1]/div[2]/div/div/div[1]/table[2]/tbody/tr[1]/td[2]/span',
-  "/html/body/div[1]/div[2]/div[1]/div[2]/div/div/div[1]/table[2]/tbody/tr[2]/td[1]/span",
-  "/html/body/div[1]/div[2]/div[1]/div[2]/div/div/div[1]/table[2]/tbody/tr[2]/td[2]/span",
-  "/html/body/div[1]/div[2]/div[1]/div[2]/div/div/div[1]/table[2]/tbody/tr[2]/td[3]/span",
+  '//*[@id="art-main"]/div[2]/div[1]/div[2]/div/div/div[1]/table[2]/tbody/tr[1]/td[2]/span',
+  '//*[@id="art-main"]/div[2]/div[1]/div[2]/div/div/div[1]/table[2]/tbody/tr[2]/td[1]/span',
+  '//*[@id="art-main"]/div[2]/div[1]/div[2]/div/div/div[1]/table[2]/tbody/tr[2]/td[2]/span',
+  '//*[@id="art-main"]/div[2]/div[1]/div[2]/div/div/div[1]/table[2]/tbody/tr[2]/td[3]/span',
 ];
 
 const main = async () => {
