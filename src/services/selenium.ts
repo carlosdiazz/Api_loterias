@@ -53,6 +53,7 @@ const arr_URL_x3 = [
   "/html/body/main/div[3]/div/div[2]/div[1]/table/tbody/tr[1]/td[1]/div/ul/li[3]/span",
 ];
 
+//Exaple
 const url = "https://www.lotteryusa.com/florida/pick-2/";
 
 const ganamas = [
